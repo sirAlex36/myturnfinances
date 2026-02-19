@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MT5</string>
+    <string name="title_activity_main">MT5</string>
+    <string name="package_name">io.github.siralex36.myturnfinances</string>
+    <string name="custom_url_scheme">io.github.siralex36.myturnfinances</string>
+</resources>
